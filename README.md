@@ -1,6 +1,6 @@
 📊 **IBM HR Analytics: Employee Attrition & Retention Dashboard**
 
-<img width="1328" height="744" alt="image" src="https://github.com/user-attachments/assets/1f79396d-e69c-4d40-a494-277034696d1b" />
+<img width="1317" height="741" alt="image" src="https://github.com/user-attachments/assets/13b2c1da-920b-42cd-ad16-10b43dd576ed" />
 
 📝 **Executive Summary**
 This project focuses on HR Analytics using the IBM HR Attrition dataset. The goal was to identify factors contributing to employee turnover and provide data-driven recommendations to improve retention.
