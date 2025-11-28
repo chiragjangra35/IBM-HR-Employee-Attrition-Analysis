@@ -33,7 +33,7 @@ Overall Attrition Rate: 16% (237 Employees left).
 
 Department Impact: The R&D department has the highest volume of attrition (133), but Sales has a concerning attrition ratio relative to its size.
 
-<img width="1321" height="737" alt="image" src="https://github.com/user-attachments/assets/e9714c4c-aacf-4598-be9b-5906b1a403d5" />
+<img width="1317" height="741" alt="image" src="https://github.com/user-attachments/assets/b3c59528-a440-4b41-9eec-c87768ebc602" />
 
 **2. Salary & Income Analysis**
 The Income Gap: There is a distinct correlation between low income and high attrition. The "Monthly Income Distribution" chart shows that employees who left (Orange Line) consistently earned below the average compared to those who stayed (Pink Line).
